@@ -35,7 +35,7 @@ dependencies {
     })
     testCompile 'junit:junit:4.12'
     testCompile 'org.sdmlib:SDMLib:2.2.+'
-	compile 'de.uniks:NetworkParser:4.4.311'
+	compile 'de.uniks:NetworkParser:4.+'
     compile 'com.android.support:appcompat-v7:25.3.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.android.support:design:25.3.0'
